@@ -1,0 +1,16 @@
+elasticsearch:
+  host: 127.0.0.1
+  port: 9200
+
+
+spring:
+  datasource:
+    username: root
+    password: 260378
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?serverTimezone=UTC
+  #mybatis
+mybatis:
+  type-aliases-package: com.acho.bean
+  mapper-locations: classpath:/mapper/GoodsMapper.xml
+

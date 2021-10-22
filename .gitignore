@@ -1,0 +1,3 @@
+# Project exclude paths
+/SampleES-01/target/
+/Spring Data Elasticsearch/target/

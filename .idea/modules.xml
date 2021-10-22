@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SampleES-01/SampleES-01.iml" filepath="$PROJECT_DIR$/SampleES-01/SampleES-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring Data Elasticsearch/Spring-Data-Elasticsearch.iml" filepath="$PROJECT_DIR$/Spring Data Elasticsearch/Spring-Data-Elasticsearch.iml" />
+    </modules>
+  </component>
+</project>
